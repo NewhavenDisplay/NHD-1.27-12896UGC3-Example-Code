@@ -1,4 +1,4 @@
-NHD-1.27-12896UGC3-Example-Code---Arduino-Uno
+NHD-1.27-12896UGC3-Example-Code
 ==============================================
 
 NHD_1_27_12896UGC3_example_uno.ino
