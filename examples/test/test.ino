@@ -1,7 +1,7 @@
 //---------------------------------------------------------
 /*
 
-NHD_1_27_12896UGC3_example_uno.ino
+test.ino
 
 Program for writing to Newhaven Display 128x96 Graphic Color OLED with SSD1351 controller.
 
