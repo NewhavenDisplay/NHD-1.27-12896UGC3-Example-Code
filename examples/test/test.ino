@@ -3,7 +3,7 @@
 
 test.ino
 
-Program for writing to Newhaven Display 128x96 Graphic Color OLED with SSD1351 controller.
+Program for writing to Newhaven Display's 128x96 Graphic Color OLED with SSD1351 controller.
 
  Pick one up today in the Newhaven Display shop!
  ------> http://www.newhavendisplay.com/nhd12712896ugc3-p-7845.html
